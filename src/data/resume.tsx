@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Dynamic problem-solver with a passion for software development, research, and mentorship; leveraging technical expertise to innovate and inspire.",
+    "Software Engineer & Research Enthusiast",
   summary:
     "At the start of 2024, I transitioned from being a software developer intern at Tech Mahindra and Samsung R&D to fully focusing on research and innovative projects. In the past, [I graduated with a B.Tech in Computer Science and Technology from VIT](#education), [published impactful research on encryption and security](#research), and [mentored over 70 students as the Technical Lead of the Newton School Coding Club](#leadership). I've also enjoyed contributing to social initiatives through [VITeach, a non-profit organization](#community), and developing cutting-edge solutions like emotion-specific voice synthesis and secure multimedia encryption.",
   avatarUrl: "/deepesh.jpg",
