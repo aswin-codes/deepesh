@@ -107,8 +107,8 @@ export const DATA = {
       href: "https://chennai.vit.ac.in",
       degree: "B.Tech in Computer Science and Technology",
       logoUrl: "/vit.jpeg",
-      start: "2019",
-      end: "2023",
+      start: "2021",
+      end: "2025",
       details: "GPA: 3.703/4.0 | TOEFL: 106",
       coreCourses: [
         "Operating Systems",
@@ -193,12 +193,12 @@ export const DATA = {
     location: "International Journal of Intelligent Engineering & Systems",
     description:
       "Enhanced the efficiency of the RSA algorithm to reduce encryption and decryption time. Our dynamic approach outperforms traditional RSA in terms of execution time, cost, and CPU efficiency.",
-    image:
-      "https://example.com/dynamic-rsa-image.png", // Replace with actual image link
+    // image:
+    //   "https://example.com/dynamic-rsa-image.png", // Replace with actual image link
     links: [
       {
         title: "Published Paper",
-        href: "https://example.com/dynamic-rsa-paper.pdf", // Replace with actual link
+        href: "https://drive.google.com/file/d/1jS7CdiirYCjh2eOVVuNSjPe7fWDLU9sC/view?usp=sharing", // Replace with actual link
       },
     ],
   },
@@ -208,12 +208,12 @@ export const DATA = {
     location: "International Journal of Intelligent Engineering & Systems",
     description:
       "Implemented RSA encryption and Arnold Cat Map shuffling to enhance image security while preserving visual integrity. The method secures image pixels while maintaining quality.",
-    image:
-      "https://example.com/arnold-cat-map-image.png", // Replace with actual image link
+    // image:
+    //   "https://example.com/arnold-cat-map-image.png", // Replace with actual image link
     links: [
       {
         title: "Published Paper",
-        href: "https://example.com/arnold-cat-map-paper.pdf", // Replace with actual link
+        href: "https://drive.google.com/file/d/1JtVzfYc20R0gxhrvB8sCvycEiy4yKfx2/view?usp=sharing", // Replace with actual link
       },
     ],
   },
@@ -223,12 +223,12 @@ export const DATA = {
     location: "International Journal of Intelligent Engineering & Systems",
     description:
       "Developed a multi-modal encryption method using dynamic S-Boxes, Fisher-Yates Shuffle, and PRNG to resist cryptographic attacks on text, image, and audio data.",
-    image:
-      "https://example.com/multi-modal-encryption-image.png", // Replace with actual image link
+    // image:
+    //   "https://example.com/multi-modal-encryption-image.png", // Replace with actual image link
     links: [
       {
         title: "Published Paper",
-        href: "https://example.com/multi-modal-encryption-paper.pdf", // Replace with actual link
+        href: "https://drive.google.com/file/d/18Qe7WfmqKD_QM3G7wAN-K6Uq8te7B5wo/view?usp=sharing ", // Replace with actual link
       },
     ],
   },
@@ -238,12 +238,12 @@ export const DATA = {
     location: "VIT, India",
     description:
       "Designed a timestamped steganographic embedding method using Arnold Cat Map for secure image transmission and detection of active and passive attacks.",
-    image:
-      "https://example.com/timestamped-steganography-image.png", // Replace with actual image link
+    // image:
+    //   "https://example.com/timestamped-steganography-image.png", // Replace with actual image link
     links: [
       {
-        title: "Final Year Thesis",
-        href: "https://example.com/timestamped-steganography-thesis.pdf", // Replace with actual link
+        title: "Published Paper",
+        href: "https://drive.google.com/file/d/1Vvh7AnrMAxLvoCCM1B-Ndc59VPjN2owU/view?usp=drive_link", // Replace with actual link
       },
     ],
   },
