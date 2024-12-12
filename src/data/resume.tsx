@@ -203,7 +203,7 @@ export const DATA = {
     //   "https://example.com/dynamic-rsa-image.png", // Replace with actual image link
     links: [
       {
-        title: "Published Paper",
+        title: "Paper",
         href: "https://drive.google.com/file/d/1jS7CdiirYCjh2eOVVuNSjPe7fWDLU9sC/view?usp=sharing", // Replace with actual link
       },
     ],
@@ -218,7 +218,7 @@ export const DATA = {
     //   "https://example.com/arnold-cat-map-image.png", // Replace with actual image link
     links: [
       {
-        title: "Published Paper",
+        title: "Paper",
         href: "https://drive.google.com/file/d/1JtVzfYc20R0gxhrvB8sCvycEiy4yKfx2/view?usp=sharing", // Replace with actual link
       },
     ],
@@ -233,7 +233,7 @@ export const DATA = {
     //   "https://example.com/multi-modal-encryption-image.png", // Replace with actual image link
     links: [
       {
-        title: "Published Paper",
+        title: "Paper",
         href: "https://drive.google.com/file/d/18Qe7WfmqKD_QM3G7wAN-K6Uq8te7B5wo/view?usp=sharing ", // Replace with actual link
       },
     ],
@@ -248,7 +248,7 @@ export const DATA = {
     //   "https://example.com/timestamped-steganography-image.png", // Replace with actual image link
     links: [
       {
-        title: "Published Paper",
+        title: "Paper",
         href: "https://drive.google.com/file/d/1Vvh7AnrMAxLvoCCM1B-Ndc59VPjN2owU/view?usp=drive_link", // Replace with actual link
       },
     ],
