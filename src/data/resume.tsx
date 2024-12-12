@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, NotebookIcon, NotepadText } from "lucide-react";
 
 export const DATA = {
   name: "DEEPESH SAI",
@@ -55,6 +55,12 @@ export const DATA = {
         icon: Icons.linkedin,
 
         navbar: true,
+      },
+      BlogSpot: {
+        name : "Blogspot",
+        url : "https://deepeshresearchroadmap.blogspot.com",
+        icon : NotepadText,
+        navbar: true
       },
       // X: {
       //   name: "X",
